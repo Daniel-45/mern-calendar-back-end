@@ -13,3 +13,13 @@ You need to have installed:
 |:-------------|:-----------| 
 | __node__     | >= 14.15.3 |
 | __npm__      | >= 6.14.9  |
+
+## Development
+
+Run the development environment with `npm start`.
+
+Global installation of **nodemon** `npm install -g nodemon`.
+
+Install **nodemon** as a development dependency `npm install --save-dev nodemon`.
+
+Run the development environment with **nodemon** `npm run dev`.
